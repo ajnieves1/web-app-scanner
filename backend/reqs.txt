@@ -1,0 +1,11 @@
+# backend/reqs.txt
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+beautifulsoup4
+python-dotenv
